@@ -12,5 +12,5 @@ This code file works on the minimax algorithm along with alpha-beta pruning. <br
 
 Heuristic Score: ( Heuristic Score is the Scoring Algorithm based on which the minimax tree works ) <br/>
 a * ( Number of possible moves the AI has )  -  b * ( Number of possible moves the Opponent has ) <br/>
-a - Higher its value, more is the AI focussed on increasing the number of possible moves the AI has <br/>
-b - Higher its value, more is the AI focussed on reducing the number of possible moves the Opponent has <br/>
+a : Higher its value, more is the AI focussed on increasing the number of possible moves the AI has <br/>
+b : Higher its value, more is the AI focussed on reducing the number of possible moves the Opponent has <br/>
